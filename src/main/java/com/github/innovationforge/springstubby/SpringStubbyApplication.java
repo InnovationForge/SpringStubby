@@ -1,4 +1,4 @@
-package com.innovationforge.springstubby;
+package com.github.innovationforge.springstubby;
 
 import com.github.tomakehurst.wiremock.servlet.WireMockHandlerDispatchingServlet;
 import com.github.tomakehurst.wiremock.servlet.WireMockWebContextListener;
